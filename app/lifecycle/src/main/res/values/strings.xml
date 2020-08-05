@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lifecycle</string>
+    <string name="get_permission_dialog">External Storage Permission Dialog</string>
+    <string name="get_alert_dialog">Alter Dialog</string>
 </resources>
