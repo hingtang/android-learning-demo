@@ -3,4 +3,7 @@
     <string name="get_permission_dialog">External Storage Permission Dialog</string>
     <string name="get_alert_dialog">Alter Dialog</string>
     <string name="navigate_to_second_activity">Navigate to Second Activity</string>
+    <string name="navigate_to_second_fragment">Navigate to Second Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
